@@ -5,8 +5,6 @@
 Purpose of this repo is to create data viz to reason on:
 
 1. School catchment areas in Sydney, NSW
-2. Rental listings in Sydney, NSW
-
 
 
 ## Data Preparation
